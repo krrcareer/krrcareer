@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krrcareer
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently developing Java(Spring Boot) projects.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently developing Java(Spring Boot) and React.js projects.
+- 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me - https://www.linkedin.com/in/kumarrahulraj
 
 <!---
